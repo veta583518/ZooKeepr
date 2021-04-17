@@ -126,6 +126,16 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Coco",
+      "species": "Dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
