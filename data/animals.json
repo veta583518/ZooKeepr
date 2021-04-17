@@ -136,6 +136,34 @@
         "loving"
       ],
       "id": "13"
+    },
+    {
+      "name": "Dallis",
+      "species": "Dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany",
+        "anxious"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "Toodles",
+      "species": "Hampster",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "Tucan Sam",
+      "species": "parrot",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "16"
     }
   ]
 }
